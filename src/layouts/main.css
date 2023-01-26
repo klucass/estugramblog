@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "ttcommons";
+  src: url("/fonts/tt-commons-bold.otf");
+}
+article ul li {
+  list-style: disc;
+  margin-left: 1em;
+}
