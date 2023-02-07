@@ -5,7 +5,7 @@ pubDate: 2022-06-24
 description: "Saber para onde se está indo é meio caminho andado quando se trata de estudar em alto nível. Seja para uma prova na faculdade, de concurso, OAB, certificação, etc. Como saber se estou no caminho certo? Como saber se estou estudando o suficiente? Bem, alguns indicadores nos ajudam a acompanhar nosso desempenho nos estudos e, se necessário, a corrigir as rotas."
 author: "Estugram"
 image:
-  url: "https://i0.wp.com/blog.estugram.app/wp-content/uploads/2022/06/pexels-kaboompics-com-6384.jpg?w=1280&ssl=1"
+  url: "https://images.pexels.com/photos/6384/woman-hand-desk-office.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   alt: "Dicas para tirar o máximo proveito do estugram em seus estudos"
 tags: ["estudo"]
 ---

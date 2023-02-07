@@ -5,7 +5,7 @@ pubDate: 2022-09-05
 description: "A forma de organizar os estudos em agenda semanal não tem nenhum problema… quando você está na escola, na faculdade, no cursinho, etc. Mas para o estudo individual, há uma forma melhor: ciclo de estudos."
 author: "Estugram"
 image:
-  url: "https://i0.wp.com/blog.estugram.app/wp-content/uploads/2022/09/pexels-photo-196650-scaled-1.jpeg?resize=2048%2C1366&ssl=1"
+  url: "https://images.pexels.com/photos/196650/pexels-photo-196650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   alt: "Aprenda a criar seu ciclo de estudos"
 tags: ["estudo"]
 ---

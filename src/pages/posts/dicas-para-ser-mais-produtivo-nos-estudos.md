@@ -5,7 +5,7 @@ pubDate: 2022-07-04
 description: "Produtividade é conseguir fazer mais em menos tempo. Trata-se de encontrar maneiras de ser mais eficiente para que você possa completar as tarefas mais rapidamente e com menos esforço. Quando você melhora a produtividade do estudo, você está mais apto a usar seu tempo sabiamente, administrar sua carga de trabalho com eficiência e concentrar-se no que é importante. Aqui estão algumas idéias sobre como melhorar sua produtividade como estudante"
 author: "Estugram"
 image:
-  url: "https://i0.wp.com/blog.estugram.app/wp-content/uploads/2022/07/pexels-andrea-piacquadio-3808057-1-scaled-e1656983869198.jpg?w=800&ssl=1"
+  url: "https://images.pexels.com/photos/3808057/pexels-photo-3808057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   alt: "Dicas para ser mais produtivo nos estudos"
 tags: ["estudo"]
 ---

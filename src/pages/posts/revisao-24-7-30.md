@@ -7,7 +7,7 @@ description: "Usar uma ferramenta que controla pra você as revisões que devem 
 Controle de revisões com o Estugram"
 author: "Estugram"
 image:
-  url: "https://i0.wp.com/blog.estugram.app/wp-content/uploads/2022/08/pexels-lilartsy-1925536.jpg?w=1280&ssl=1"
+  url: "https://images.pexels.com/photos/1925536/pexels-photo-1925536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   alt: "Conheça o método de revisão 24/7/30"
 tags: ["estudo"]
 ---

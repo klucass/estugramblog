@@ -5,7 +5,7 @@ pubDate: 2022-07-21
 description: "Conciliar estudo e demais atividades do dia nem sempre é assim tão fácil, não é mesmo? Pra isso, otimizar o tempo de estudo é fundamental. Para nossa alegria, existem técnicas e ferramentas que ajudam a manter o foco máximo e evitar distrações desnecessárias. Uma delas é a famosa técnica pomodoro."
 author: "Estugram"
 image:
-  url: "https://i0.wp.com/blog.estugram.app/wp-content/uploads/2022/07/pexels-photo-7054768-scaled-e1658413743196.jpeg?w=800&ssl=1"
+  url: "https://images.pexels.com/photos/7054768/pexels-photo-7054768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   alt: "Método Pomodoro para os estudos"
 tags: ["estudo"]
 ---
