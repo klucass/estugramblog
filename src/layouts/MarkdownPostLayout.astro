@@ -1,11 +1,10 @@
 ---
 import Layout from "./Layout.astro";
-import { Image } from "@astrojs/image/components";
 const { frontmatter } = Astro.props;
 ---
 
 <Layout title={frontmatter.title}>
-  <Image src={frontmatter.image.url} alt={frontmatter.image.alt} />
+  <img src={frontmatter.image.url} alt={frontmatter.image.alt} />
   <h1 class="text-5xl font-bold text-red my-10 font-ttcommons">
     {frontmatter.title}
   </h1>
