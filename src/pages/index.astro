@@ -5,6 +5,6 @@ const allPosts = await Astro.glob("../pages/posts/*.md");
 allPosts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
 ---
 
-<Layout title="Estugram Blog" description="Dicas de produtividade para melhorar o seu estudo" img="https://blog.estugram.app/estugram.png">
+<Layout title="Estugram Blog" description="Dicas de produtividade para melhorar o seu estudo" img="https://blog.estugram.app/home-img-twitter.png">
   {allPosts.map((post) => <Article post={post} />)}
 </Layout>
