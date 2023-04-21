@@ -2,13 +2,14 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "10 dicas para iniciantes no estudo pra concursos"
 pubDate: 2023-03-03
-description: "A forma de organizar os estudos em agenda semanal não tem nenhum problema… quando você está na escola, na faculdade, no cursinho, etc. Mas para o estudo individual, há uma forma melhor: ciclo de estudos."
+description: "Estudar para concursos não é uma tarefa fácil, exige determinação, foco e muita organização. Com o planejamento certo e dedicação você atingirá seus objetivos"
 author: "Estugram"
 image:
   url: "https://images.pexels.com/photos/9429448/pexels-photo-9429448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   alt: "10 dicas para iniciantes no estudo pra concursos"
 tags: ["estudo"]
 ---
+
 Estudar para concursos não é uma tarefa fácil, exige determinação, foco e muita organização. Com o planejamento certo e dedicação você atingirá seus objetivos.
 Aqui vão algumas dicas rápidas que vão te ajudar durante a jornada de estudo para concursos.
 
