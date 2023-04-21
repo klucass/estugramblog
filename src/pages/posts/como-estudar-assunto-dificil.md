@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: "Como estudar um assunto difícil?"
 pubDate: 2023-04-21
-description: "Estudar um assunto difícil pode ser desafiador, mas há muitas estratégias que você pode usar para facilitar o processo. Aqui estão algumas dicas."
+description: "10 dicas práticas para facilitar o estudo de assuntos difíceis: como quebrar o assunto em partes menores, usar técnicas de memorização, variar os recursos de aprendizado, praticar regularmente, fazer pausas regulares e mais."
 author: "Estugram"
 image:
   url: "https://images.pexels.com/photos/1467564/pexels-photo-1467564.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
