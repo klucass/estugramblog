@@ -1,18 +1,18 @@
 ---
 export interface Props {
-  title: string,
-  description: string,
-  img: string
+  title: string;
+  description: string;
+  img: string;
 }
 
 const { title, description, img } = Astro.props;
 
-import "./main.css";
+import "../css/base.css";
 import Footer from "../components/Footer.astro";
 ---
 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" data-theme="night">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
@@ -33,7 +33,7 @@ import Footer from "../components/Footer.astro";
     <meta name="twitter:image" content={img} />
     <title>{title}</title>
   </head>
-  <body>
+  <body class="font-poppins">
     <div
       class="w-full py-2 mb-10 text-center bg-gradient-to-r from-blue via-purple to-red border-0"
     >
@@ -46,11 +46,11 @@ import Footer from "../components/Footer.astro";
       >
     </div>
     <div class="md:w-[780px] mx-auto">
-      <header class="bg-purple p-10 mb-10 text-center">
-        <h1 class="font-ttcommons font-bold text-white text-6xl">
+      <header class="p-10 mb-10 text-center">
+        <h1 class="font-poppinsBold text-white text-6xl">
           <a href="/">
             Estugram <span class="text-red -ml-5">/</span>
-            <span class="text-green -ml-5">Blog</span></a
+            <span class="text-green -ml-5 font-poppinsExtra">Blog</span></a
           >
         </h1>
       </header>

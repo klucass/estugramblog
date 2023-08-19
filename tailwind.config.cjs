@@ -9,8 +9,15 @@ module.exports = {
         purple: "#5a35b6",
         green: "#01d1d1",
       },
-      fontFamily: { ttcommons: ["ttcommons", "sans-serif"] },
+      fontFamily: {
+        poppins: ["poppinsRegular"],
+        poppinsBold: ["poppinsBold"],
+        poppinsExtra: ["poppinsExtra"],
+      },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
+  daisyui: {
+    themes: ["night"],
+  },
 };

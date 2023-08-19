@@ -7,13 +7,12 @@ const { post } = Astro.props;
 
   <div class="px-5 md:px-0">
     <a href={post.url}>
-      <h2 class="text-5xl font-ttcommons font-semibold text-red my-5">
+      <h2 class="text-5xl font-poppinsBold text-green my-5">
         {post.frontmatter.title}
       </h2>
     </a>
-    <p class="text-gray-700 leading-loose font-sans [&>p]:my-5">
+    <p class="text-base-content leading-loose font-sans [&>p]:my-5">
       {post.frontmatter.description}
     </p>
   </div>
-  
 </article>
