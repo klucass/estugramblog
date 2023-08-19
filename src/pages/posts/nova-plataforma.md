@@ -14,17 +14,17 @@ Estamos entusiasmados em anunciar o lançamento das mais recentes funcionalidade
 
 **Novo site e app com layout simplificado:** Estamos apresentando uma interface totalmente nova tanto para o nosso site quanto para o aplicativo. O design simplificado e intuitivo foi cuidadosamente elaborado para tornar a navegação mais fácil e agradável, proporcionando um ambiente propício para uma experiência de estudos ainda mais produtiva.
 
-<img src="/src/img/pretty_snap_2023_7_12_17_45.png" alt="Novo visual da plataforma">
+<img src="/img/posts/nova-plataforma/pretty_snap_2023_7_12_17_45.png" alt="Novo visual da plataforma">
 
 **Relatórios aprimorados:** Sabemos o quão importante é acompanhar seu progresso. Agora, com nossos novos relatórios, você terá acesso a insights mais detalhados sobre suas atividades de estudo. Visualize suas metas, conquistas e áreas de melhoria de maneira clara e organizada.
 
-<img src="/src/img/pretty_snap_2023_7_12_17_52.png" alt="Nova área de estátisticas">
+<img src="/img/posts/nova-plataforma/pretty_snap_2023_7_12_17_52.png" alt="Nova área de estátisticas">
 
 **Novo timer Pomodoro:** O método Pomodoro é uma ferramenta valiosa para otimizar sua concentração e produtividade. Introduzimos um timer Pomodoro totalmente novo, permitindo que você divida suas sessões de estudo em intervalos eficazes, garantindo um fluxo de trabalho mais focado.
 
 **Modo noturno e modo claro:** Entendemos a importância de personalizar a aparência do Estugram de acordo com suas preferências. Agora, você pode alternar entre os modos noturno e claro para uma experiência visual mais confortável, independentemente das condições de iluminação.
 
-<img src="/src/img/pretty_snap_2023_7_12_18_2.png" alt="modo claro e modo escuro disponíveis">
+<img src="/img/posts/nova-plataforma/pretty_snap_2023_7_12_18_2.png" alt="modo claro e modo escuro disponíveis">
 
 E vem mais por aí:
 
