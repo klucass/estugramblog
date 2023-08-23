@@ -28,6 +28,6 @@ Estudar um assunto difícil pode ser desafiador, mas há muitas estratégias que
 
 **Aprenda a partir de exemplos:** Use exemplos para ilustrar conceitos e ajudar a compreendê-los. Isso pode ajudar a tornar o assunto mais tangível e fácil de entender.
 
-**Faça pausas regulares:** É importante tirar pausas regulares ao estudar para evitar a fadiga mental e ajudar a manter a concentração. Tente fazer pausas curtas a cada 30-45 minutos e uma pausa mais longa a cada duas horas. [O modo pomodoro](https://blog.estugram.app/posts/pomodoro) do estugram pode ajudá-lo a controlar seus períodos de estudo.
+**Faça pausas regulares:** É importante tirar pausas regulares ao estudar para evitar a fadiga mental e ajudar a manter a concentração. Tente fazer pausas curtas a cada 30-45 minutos e uma pausa mais longa a cada duas horas. [O modo pomodoro](https://blog.estugram.com/posts/pomodoro) do estugram pode ajudá-lo a controlar seus períodos de estudo.
 
 Seja paciente: Aprender um assunto difícil pode levar tempo. Por isso, não se desanime se você não entender tudo de uma vez. Continuar a estudar e praticar pode ajudá-lo a progredir.

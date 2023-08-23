@@ -32,4 +32,4 @@ A cada período de estudo salvo no sistema, você poderá registrar observaçõe
 
 Bons estudos!
 
-Ah, você quer falar com a gente? Manda um DM nas nossas redes sociais ou e-mail para ajuda@estugram.app
+Ah, você quer falar com a gente? Manda um DM nas nossas redes sociais ou e-mail para ajuda@estugram.com
