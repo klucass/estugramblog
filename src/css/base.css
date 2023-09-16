@@ -21,9 +21,6 @@ article ul li {
   margin-left: 1em;
 }
 
-article p {
-  @apply text-xl;
-}
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
