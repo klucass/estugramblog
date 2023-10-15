@@ -58,10 +58,14 @@ article img {
 article strong {
   @apply font-assistantBold;
 }
-article p a {
+article p a:link,
+article li a:link,
+article p a:visited,
+article li a:visited {
   @apply link text-green no-underline;
 }
-article p a:hover {
+article p a:hover,
+article li a:hover {
   @apply underline underline-offset-2;
 }
 
