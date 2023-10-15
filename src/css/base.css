@@ -1,24 +1,58 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 /* Register your custom font family and tell the browser where to find it. */
 @font-face {
   font-family: "poppinsBold";
   src: url("/src/fonts/Poppins-Bold.ttf");
+  font-display: swap;
 }
 @font-face {
   font-family: "poppinsExtra";
   src: url("/src/fonts/Poppins-ExtraBold.ttf");
+  font-display: swap;
 }
 @font-face {
   font-family: "poppinsRegular";
   src: url("/src/fonts/Poppins-Regular.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "assistant";
+  src: url("/src/fonts/Assistant-Regular.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "assistantBold";
+  src: url("/src/fonts/Assistant-Bold.ttf");
+  font-display: swap;
 }
 
 article ul li {
   list-style: disc;
-  margin-left: 1em;
+  @apply mt-5 ml-5;
+}
+
+article h2,
+article h3,
+article h4,
+article h5 {
+  @apply font-poppinsBold text-green;
+}
+article h2 {
+  @apply text-2xl font-bold mt-10;
+}
+article p,
+article ul li {
+  @apply font-assistant text-xl leading-relaxed;
+}
+
+article p {
+  @apply mt-5;
+}
+
+article strong {
+  @apply font-assistantBold;
 }
 
 body {

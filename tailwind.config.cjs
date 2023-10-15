@@ -13,6 +13,8 @@ module.exports = {
         poppins: ["poppinsRegular"],
         poppinsBold: ["poppinsBold"],
         poppinsExtra: ["poppinsExtra"],
+        assistant: ["assistant"],
+        assistantBold: ["assistantBold"],
       },
     },
   },
