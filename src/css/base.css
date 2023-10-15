@@ -51,6 +51,10 @@ article p {
   @apply mt-5;
 }
 
+article img {
+  @apply my-10;
+}
+
 article strong {
   @apply font-assistantBold;
 }
