@@ -58,6 +58,12 @@ article img {
 article strong {
   @apply font-assistantBold;
 }
+article p a {
+  @apply link text-green no-underline;
+}
+article p a:hover {
+  @apply underline underline-offset-2;
+}
 
 body {
   -webkit-font-smoothing: antialiased;
