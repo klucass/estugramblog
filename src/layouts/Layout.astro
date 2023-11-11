@@ -3,15 +3,16 @@ export interface Props {
   title: string;
   description: string;
   img: string;
+  url: URL;
 }
 
-const { title, description, img } = Astro.props;
+const { title, description, img, url } = Astro.props;
 
 import "../css/base.css";
 import Footer from "../components/Footer.astro";
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-br" data-theme="night">
   <head>
     <meta charset="UTF-8" />
@@ -25,6 +26,10 @@ import Footer from "../components/Footer.astro";
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={img} />
+    <meta property="og:title" content={title} />
+    <meta property="og:image" content={img} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={url} />
     <title>{title}</title>
   </head>
   <body class="font-poppins">
