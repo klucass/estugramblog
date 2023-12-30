@@ -3,8 +3,9 @@ import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import Article from "../components/Article.astro";
 const allPosts = await getCollection("posts");
+allPosts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
 ---
 
-<Layout url={new URL("https://blog.estugram.com/")} title="Estugram Blog" description="Dicas de produtividade para melhorar o seu estudo" img="https://blog.estugram.com/home-img-twitter.png">
+<Layout ogurl={new URL("https://blog.estugram.com/")} title="Estugram Blog" description="Dicas de produtividade para melhorar o seu estudo" img="https://blog.estugram.com/home-img-twitter.png">
   {allPosts.map((post) => <Article post={post} />)}
 </Layout>
