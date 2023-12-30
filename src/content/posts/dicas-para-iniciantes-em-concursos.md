@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "10 dicas para iniciantes no estudo pra concursos"
 pubDate: 2023-03-03
 description: "Estudar para concursos não é uma tarefa fácil, exige determinação, foco e muita organização. Com o planejamento certo e dedicação você atingirá seus objetivos"
@@ -10,8 +9,7 @@ image:
 tags: ["estudo"]
 ---
 
-Estudar para concursos não é uma tarefa fácil, exige determinação, foco e muita organização. Com o planejamento certo e dedicação você atingirá seus objetivos.
-Aqui vão algumas dicas rápidas que vão te ajudar durante a jornada de estudo para concursos.
+Estudar para concursos não é uma tarefa fácil, exige determinação, foco e muita organização. Com o planejamento certo e dedicação você atingirá seus objetivos. Aqui vão algumas dicas rápidas que vão te ajudar durante a jornada de estudo para concursos.
 
 - **Crie um ambiente adequado para o estudo**: escolha um local tranquilo, bem iluminado e com poucas distrações para estudar. Você passará boa parte do tempo em seu local de estudo. É muito importante que ele estja adequado para que seu tempo seja o mais produtivo possível.
 

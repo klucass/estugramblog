@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "Conheça o método de revisão 24/7/30"
 pubDate: 2022-08-07
 description: "Usar uma ferramenta que controla pra você as revisões que devem ser feitas no dia, de forma automática, é muito importante para que as revisões não tomem mais tempo do que devem. O tempo do estudante é muito precioso, e não pode ser perdido com controles que custam mais caro do que os benefícios entregados. Estudar com produtividade é um dos segredos dos aprovados.

@@ -3,10 +3,10 @@ export interface Props {
   title: string;
   description: string;
   img: string;
-  url: URL;
+  ogurl: URL;
 }
 
-const { title, description, img, url } = Astro.props;
+const { title, description, img, ogurl } = Astro.props;
 
 import "../css/base.css";
 import Footer from "../components/Footer.astro";
@@ -29,7 +29,7 @@ import Footer from "../components/Footer.astro";
     <meta property="og:title" content={title} />
     <meta property="og:image" content={img} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={url} />
+    <meta property="og:url" content={ogurl} />
     <title>{title}</title>
   </head>
   <body class="font-poppins">

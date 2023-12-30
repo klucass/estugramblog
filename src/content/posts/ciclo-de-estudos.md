@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "O que é ciclo de estudo e como fazer o seu"
 pubDate: 2022-09-05
 description: "A forma de organizar os estudos em agenda semanal não tem nenhum problema… quando você está na escola, na faculdade, no cursinho, etc. Mas para o estudo individual, há uma forma melhor: ciclo de estudos."
@@ -26,8 +25,7 @@ E se acontecer o contrário? Digamos que você tenha um contra-tempo no dia. Nã
 
 A forma de organizar os estudos em agenda semanal não tem nenhum problema… quando você está na escola, na faculdade, no cursinho, etc. Mas para o estudo individual, há uma forma melhor: ciclo de estudos.
 
-O que é Ciclo de Estudos?
-A ideia do ciclo de estudos é bem simples. Você organiza uma lista das matérias que deverão ser estudadas, na ordem em que elas serão vistas e quanto tempo vai estudar cada uma.
+O que é Ciclo de Estudos? A ideia do ciclo de estudos é bem simples. Você organiza uma lista das matérias que deverão ser estudadas, na ordem em que elas serão vistas e quanto tempo vai estudar cada uma.
 
 A seguir você organiza seu ciclo para caber em uma semana inteira. Quando for estudar, você estuda a matéria inicial, e segue para a próxima quando terminar. Simples assim.
 

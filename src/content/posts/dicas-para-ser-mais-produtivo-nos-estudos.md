@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "5 Dicas para ser mais produtivo nos estudos"
 pubDate: 2022-07-04
 description: "Produtividade é conseguir fazer mais em menos tempo. Trata-se de encontrar maneiras de ser mais eficiente para que você possa completar as tarefas mais rapidamente e com menos esforço. Quando você melhora a produtividade do estudo, você está mais apto a usar seu tempo sabiamente, administrar sua carga de trabalho com eficiência e concentrar-se no que é importante. Aqui estão algumas idéias sobre como melhorar sua produtividade como estudante"
@@ -24,8 +23,7 @@ Pode parecer óbvio, mas um local de estudo organizado ajuda muito em sua produt
 
 **3 Preparar seu material com antecedência**
 
-Um estudante iniciante pode cair na armadilha de decidir o que estudar diariamente ao sentar em seu lugar de estudo. Isso abre muitas possibilidades para diversos tipos de distrações. Desde perda de tempo pesquisando desnecessariamente vários materiais de estudo, ou mesmo tentando entender onde parou o estudo no período anterior.
-O ideal é planejar toda a semana de estudos no primeiro dia e nos demais dias da semana, apenas sentar a bunda na cadeira e seguir seu plano à risca, evitando perder tempo sem necessidade.
+Um estudante iniciante pode cair na armadilha de decidir o que estudar diariamente ao sentar em seu lugar de estudo. Isso abre muitas possibilidades para diversos tipos de distrações. Desde perda de tempo pesquisando desnecessariamente vários materiais de estudo, ou mesmo tentando entender onde parou o estudo no período anterior. O ideal é planejar toda a semana de estudos no primeiro dia e nos demais dias da semana, apenas sentar a bunda na cadeira e seguir seu plano à risca, evitando perder tempo sem necessidade.
 
 **4 Usar ferramentas certas**
 

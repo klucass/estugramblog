@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: "Como monitorar o desempenho nos estudos"
 pubDate: 2022-07-21
 description: "Saber para onde se está indo é meio caminho andado quando se trata de estudar em alto nível. Seja para uma prova na faculdade, de concurso, OAB, certificação, etc. Como saber se estou no caminho certo? Como saber se estou estudando o suficiente? Bem, alguns indicadores nos ajudam a acompanhar nosso desempenho nos estudos e, se necessário, a corrigir as rotas."
