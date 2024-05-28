@@ -1,10 +1,9 @@
 ---
 import Layout from "./Layout.astro";
 const { frontmatter } = Astro.props;
-const postURL = `${import.meta.env.PUBLIC_SITE_URL}${Astro.url.pathname}`;
 ---
 
-<Layout title={frontmatter.title} description={frontmatter.description} img={frontmatter.image.url} ogurl={new URL(postURL)}>
+<Layout title={frontmatter.title} description={frontmatter.description} img={frontmatter.image.url} ogurl={Astro.url}>
   <img src={frontmatter.image.url} alt={frontmatter.image.alt} />
 
   <div class="px-5 md:px-0">
